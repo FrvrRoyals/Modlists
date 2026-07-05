@@ -1,6 +1,6 @@
 # Royals' Ghost Recon Breakpoint Modlist
 
-**Join my Discord Community!**<br/>
+### Join my Discord Community!<br/>
 https://discord.gg/ywwvZ66QbX
 
 ![Screenshot_01](../assets/images/ghost-recon-breakpoint/01.png)
