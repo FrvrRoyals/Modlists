@@ -11,7 +11,7 @@ Essentially most of the mods here are free, if there are any paid/crowdfunded mo
 
 Please keep in mind that this modlist is always subject to change!
 
-Enjoy.
+*Enjoy.*
 
 ## REQUIREMENTS & DEPENDENCIES
 
@@ -22,9 +22,9 @@ https://www.nexusmods.com/ghostreconbreakpoint/mods/16
 • Pre-Patch Forge Files - Unlock Everything - Individual Buildtables - Vanilla Meta Files<br/>
 (Needed for all GRB mods, as current/latest patch crashes the game using any mods)
 
-**(Individual Buildtables is a requirement for clothing, gear & other replacer mod compatibility, this is optional if you’re not using clothing/gear mods, but I recommend always having the mod anyway)** 
+**Individual Buildtables is a requirement for clothing, gear & other replacer mod compatibility, this is optional if you’re not using clothing/gear mods, but I recommend always having the mod anyway** 
 
-**(Vanilla Meta Files are required for matchmaking/playing online with vanilla players, not required if you just plan to play solo)**
+**Vanilla Meta Files are required for matchmaking/playing online with vanilla players, not required if you just plan to play solo**
 
 • AIO Unlock All Version (What I am using)<br/>
 https://www.nexusmods.com/ghostreconbreakpoint/mods/1495
@@ -101,7 +101,12 @@ https://www.nexusmods.com/ghostreconbreakpoint/mods/542
 ## QOL/MISC. MODS
 
 • Various Tweaks<br/>
-(No Sprint Zoom, Unarmed Wasp Drone, Gas Grenade FX, Panther Tool Replacer, Pathfinder Tool Replacer & Behemoth Skell Credits Options)
+- No Sprint Zoom<br/> 
+- Unarmed Wasp Drone<br/> 
+- Gas Grenade FX<br/> 
+- Panther Tool Replacer<br/> 
+- Pathfinder Tool Replacer<br/> 
+- Behemoth Skell Credits<br/>
 https://www.nexusmods.com/ghostreconbreakpoint/mods/537
 
 • No Sync Shot Cooldown<br/>
