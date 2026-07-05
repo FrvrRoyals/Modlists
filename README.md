@@ -1,6 +1,6 @@
 # Royals' Modlists
 
-### Currently Available
+### Released
 
 - **[Ghost Recon Breakpoint](https://github.com/FrvrRoyals/Modlists/blob/master/ghost-recon-breakpoint/modlist.md)**
 
