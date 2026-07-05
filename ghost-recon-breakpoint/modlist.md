@@ -18,9 +18,9 @@ https://www.nexusmods.com/ghostreconbreakpoint/mods/16
 • Pre-Patch Forge Files - Unlock Everything - Individual Buildtables - Vanilla Meta Files
 (Needed for all GRB mods, as current/latest patch crashes the game using any mods)
 
-(Individual Buildtables is a requirement for clothing, gear & other replacer mod compatibility, this is optional if you’re not using clothing/gear mods, but I recommend always having the mod anyway) 
+**(Individual Buildtables is a requirement for clothing, gear & other replacer mod compatibility, this is optional if you’re not using clothing/gear mods, but I recommend always having the mod anyway)** 
 
-(Vanilla Meta Files are required for matchmaking/playing online with vanilla players, not required if you just plan to play solo)
+**(Vanilla Meta Files are required for matchmaking/playing online with vanilla players, not required if you just plan to play solo)**
 
 • AIO Unlock All Version
 (What I Use)
