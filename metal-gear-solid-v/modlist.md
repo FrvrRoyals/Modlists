@@ -20,7 +20,36 @@ https://www.nexusmods.com/metalgearsolidvtpp/mods/45
 - IHHook<br/>
 https://www.nexusmods.com/metalgearsolidvtpp/mods/1226
 
-**QOL/MISC. MODS**
+## GENERAL & GAMEPLAY MODS
+
+## AUDIO & SOUND MODS
+
+- Callsign Morpho
+https://www.nexusmods.com/metalgearsolidvtpp/mods/695
+
+## VISUAL & WORLD
+
+- I Can't Believe It's Not ReShade<br/>
+https://www.nexusmods.com/metalgearsolidvtpp/mods/406
+
+## QOL/MISC. MODS
+
+- DualShock 4 Button Icons
+https://www.nexusmods.com/metalgearsolidvtpp/mods/566
+
+## WEAPON/ATTACHMENT MODS
+
+## ARMOR, CLOTHING & GEAR MODS
+
+## CHARACTER & CUSTOMIZATION MODS
+
+- The Man Who Sold The World<br/>
+(Mullet Option with Direct Action Suit & All Extras)<br/>
+https://www.nexusmods.com/metalgearsolidvtpp/mods/59
 
 - Customization Unbound<br/>
 https://www.nexusmods.com/metalgearsolidvtpp/mods/617
+
+
+
+
