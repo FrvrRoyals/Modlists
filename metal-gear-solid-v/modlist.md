@@ -24,7 +24,7 @@ https://www.nexusmods.com/metalgearsolidvtpp/mods/1226
 
 ## AUDIO & SOUND MODS
 
-- Callsign Morpho
+- Callsign Morpho<br/>
 https://www.nexusmods.com/metalgearsolidvtpp/mods/695
 
 ## VISUAL & WORLD
@@ -34,7 +34,7 @@ https://www.nexusmods.com/metalgearsolidvtpp/mods/406
 
 ## QOL/MISC. MODS
 
-- DualShock 4 Button Icons
+- DualShock 4 Button Icons<br/>
 https://www.nexusmods.com/metalgearsolidvtpp/mods/566
 
 ## WEAPON/ATTACHMENT MODS
