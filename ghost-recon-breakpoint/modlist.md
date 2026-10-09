@@ -89,7 +89,7 @@ https://www.nexusmods.com/ghostreconbreakpoint/mods/642
 (Allows all gear in cutscenes)<br/>
 https://www.nexusmods.com/ghostreconbreakpoint/mods/1488
 
-## AUDIO/SOUND
+## AUDIO/SOUND MODS
 
 • Authentic Sound Warfare Mod<br/> 
 (AI & Weapons Options)<br/>
