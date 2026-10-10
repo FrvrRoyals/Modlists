@@ -11,6 +11,10 @@ Please keep in mind that this modlist is always subject to change!
 
 ## REQUIREMENTS & DEPENDENCIES
 
+- Metal Gear Solid V: Ground Zeroes<br/>
+**(Required for US Naval Prison Base mod)**<br/>
+https://store.steampowered.com/app/311340/METAL_GEAR_SOLID_V_GROUND_ZEROES/
+
 - Snakebite Mod Manager<br/>
 https://www.nexusmods.com/metalgearsolidvtpp/mods/106
 
@@ -66,10 +70,6 @@ https://www.nexusmods.com/metalgearsolidvtpp/mods/695
 
 ## VISUAL & WORLD
 
-- US Naval Prison Facility<br/>
-**(Requires MGSV: Ground Zeroes)**<br/>
-https://www.nexusmods.com/metalgearsolidvtpp/mods/978
-
 - Beyond Ultra (Recommended, FXAA On)<br/>
 https://www.nexusmods.com/metalgearsolidvtpp/mods/1011?tab=files&file_id=5967
 
@@ -87,6 +87,10 @@ https://www.nexusmods.com/metalgearsolidvtpp/mods/2620
 
 - GZ Rain Filter<br/>
 https://www.nexusmods.com/metalgearsolidvtpp/mods/629?tab=files&file_id=3469
+
+- US Naval Prison Facility<br/>
+**(Requires MGSV: Ground Zeroes)**<br/>
+https://www.nexusmods.com/metalgearsolidvtpp/mods/978
 
 - Weather: More Phenomena<br/>
 https://www.nexusmods.com/metalgearsolidvtpp/mods/1029?tab=files&file_id=4581
