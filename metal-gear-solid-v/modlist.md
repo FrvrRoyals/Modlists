@@ -22,6 +22,9 @@ https://www.nexusmods.com/metalgearsolidvtpp/mods/1226
 
 ## GENERAL & GAMEPLAY MODS
 
+- MGSVFix<br/>
+https://codeberg.org/Lyall/MGSVFix
+
 ## AUDIO & SOUND MODS
 
 - Callsign Morpho<br/>
