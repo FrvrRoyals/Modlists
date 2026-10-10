@@ -12,7 +12,7 @@ Please keep in mind that this modlist is always subject to change!
 ## REQUIREMENTS & DEPENDENCIES
 
 - Metal Gear Solid V: Ground Zeroes<br/>
-**(Required for US Naval Prison Base mod)**<br/>
+**(Required for US Naval Prison Base Facility)**<br/>
 https://store.steampowered.com/app/311340/METAL_GEAR_SOLID_V_GROUND_ZEROES/
 
 - Snakebite Mod Manager<br/>
